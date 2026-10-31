@@ -1,5 +1,5 @@
 <!-- =========================================================
-     ABHIJEET TIWARI | PREMIUM DEVELOPER PROFILE
+     ABHIJEET Yadav | PREMIUM DEVELOPER PROFILE
      GitHub README — responsive, dark, clean, and recruiter-friendly
      Note: GitHub README does not support custom CSS files or <style> tags.
      This design uses GitHub-safe Markdown, HTML, SVG services, and badges.

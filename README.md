@@ -175,7 +175,7 @@ I am strengthening my programming foundation and applying concepts through pract
     <img src="https://img.shields.io/badge/Phone-%2B91%209935366030-0F172A?style=for-the-badge&logo=phone&logoColor=38BDF8" alt="Phone" />
   </a>
   <a href="https://github.com/codewithaviiee08">
-    <img src="https://img.shields.io/badge/GitHub-codewithaviiee08-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-codewithaviydv-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
   </a>
 
 </div>
